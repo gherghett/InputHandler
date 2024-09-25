@@ -1,5 +1,5 @@
 namespace InputHandler;
-static class Chooseer
+static class Chooser
 {    
     /// <summary>
     /// Shows a list of alternatives on the console, and lets the user choose 
